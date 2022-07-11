@@ -20,20 +20,41 @@ I'm a passionate data scientist
 
 - 💬 Ask me about anything [here](https://github.com/W-lucas/issues)
 
+
 <code><img height="20" alt="javascript" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
 <code><img height="20" alt="typescript" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/typescript/typescript.png"></code>
 <code><img height="20" alt="react" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png"></code>
 <code><img height="20" alt="graphql" src="https://raw.githubusercontent.com/github/explore/5c058a388828bb5fde0bcafd4bc867b5bb3f26f3/topics/graphql/graphql.png"></code>
-<code><img height="20" alt="nodejs" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png"></code>    | <img src="https://github-readme-streak-stats.herokuapp.com?user=W-lucas&theme=gotham" /> | <img src="https://github-readme-stats.vercel.app/api?username=W-lucas&theme=gotham&custom_title=W-lucas%20github%20stats" /> |
-| <img align="center" src="https://readme-jokes.vercel.app/api?bgColor=%23073b4c&textColor=%2306d6a0&aColor=%2306d6a0&borderColor=%2306d6a0" alt="README Jokes"> |
+<code><img height="20" alt="nodejs" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png"></code>    
+
+| <img src="https://github-readme-streak-stats.herokuapp.com?user=W-lucas&theme=gotham" /> | <img src="https://github-readme-stats.vercel.app/api?username=W-lucas&theme=gotham&custom_title=W-lucas%20github%20stats" /> |
+| ------------- | ------------- |
+
+ | <img align="center" src="https://readme-jokes.vercel.app/api?bgColor=%23073b4c&textColor=%2306d6a0&aColor=%2306d6a0&borderColor=%2306d6a0" alt="README Jokes"> |
+| ------------- | ------------- |
+
+#### Top Open Source Project
+
+
+<a href="https://github.com/">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=piku&repo=piku&theme=buefy" />
+</a>
+<a href="https://github.com/matrixjnr/piku">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=piku&repo=piku&theme=buefy" />
+</a>
+
+</br>
+</br>
+
 
 ---
-[![HitCount](http://hits.dwyl.com/W-lucas.svg)](http://hits.dwyl.com/W-lucas)
+[![HitCount](http://hits.dwyl.com/W-lucas/W-lucas.svg)](http://hits.dwyl.com/W-lucas/W-lucas)
 
 <i>Follow me around the web:</i><br>
 
 <a href="https://www.linkedin.com/in/lucas-wangila" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
+<a href="https://www.instagram.com/Lucaswangila" target="_blank"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?&style=flat-square&logo=instagram&logoColor=white" alt="Instagram"></a>
 
-<a href="" target="_blank"><img src="https://img.shields.io/badge/DEV-%230A0A0A.svg?&style=flat-square&logo=DEV.to&logoColor=white" alt="DEV.to"></a>
+
 
 </div>
