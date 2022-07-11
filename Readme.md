@@ -18,7 +18,7 @@ I'm a passionate data scientist
 - ❤️ I love analyzing sentiments, machine learning models and deep learning in Python.
 - Frameworks:Django,Flask, Express,React, Next
 
-- 💬 Ask me about anything [here](https://github.com/W-lucas/issues)
+- 💬 Ask me about anything [here](https://github.com/issues)
 
 
 <code><img height="20" alt="javascript" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
