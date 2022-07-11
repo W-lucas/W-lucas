@@ -37,10 +37,10 @@ I'm a passionate data scientist
 
 
 <a href="https://github.com/">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=piku&repo=piku&theme=buefy" />
+  <img align="center" src="https://github.com/W-lucas/Employee-attrition-" />
 </a>
 <a href="https://github.com/matrixjnr/piku">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=piku&repo=piku&theme=buefy" />
+  <img align="center" src="https://github.com/W-lucas/Employee-attrition-" />
 </a>
 
 </br>
