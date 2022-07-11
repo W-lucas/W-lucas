@@ -27,7 +27,7 @@ I'm a passionate data scientist
 <code><img height="20" alt="nodejs" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png"></code>    | <img src="https://github-readme-streak-stats.herokuapp.com?user=W-lucas&theme=gotham" /> | <img src="https://github-readme-stats.vercel.app/api?username=W-lucas&theme=gotham&custom_title=W-lucas%20github%20stats" /> |
 | ------------- | ------------- |
 
-| ![Lucas wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=W-lucas&theme=gotham&layout=compact) | <img align="center" src="https://readme-jokes.vercel.app/api?bgColor=%23073b4c&textColor=%2306d6a0&aColor=%2306d6a0&borderColor=%2306d6a0" alt="README Jokes"> |
+| | <img align="center" src="https://readme-jokes.vercel.app/api?bgColor=%23073b4c&textColor=%2306d6a0&aColor=%2306d6a0&borderColor=%2306d6a0" alt="README Jokes"> |
 | ------------- | ------------- |
 
 
