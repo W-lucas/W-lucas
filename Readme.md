@@ -7,7 +7,7 @@
 
 </div>
 
-I'm a passionate data scientist
+I'm a passionate analyst
 
 **About me**
 
@@ -16,7 +16,7 @@ I'm a passionate data scientist
 - 📈 Analyzed data in R programming,python and web development using Django framework and Flask.
 
 - ❤️ I love analyzing sentiments, machine learning models and deep learning in Python.
-- Frameworks:Django,Flask, Express,React, Next
+- Frameworks:Django,Flask, Express,React, Next ane Microsoft 365 dynamics
 
 - 💬 Ask me about anything [here](https://github.com/issues)
 
