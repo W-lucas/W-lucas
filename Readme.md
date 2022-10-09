@@ -11,7 +11,7 @@ I'm a passionate data scientist
 
 **About me**
 
-- 💼 Data scientist and Functional consultant at Agile Business Solutions (https://agilebiz.co.ke/)
+- 💼 Business analyst at Agile Business Solutions (https://agilebiz.co.ke/)
 
 - 📈 Analyzed data in R programming,python and web development using Django framework and Flask.
 
